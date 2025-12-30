@@ -1,0 +1,10 @@
+# Core
+aiogram>=3.4.1
+aiosqlite>=0.19.0
+python-dotenv>=1.0.0
+
+# AI Provider
+openai>=1.50.0
+
+# Utilities
+pydantic>=2.10.0
